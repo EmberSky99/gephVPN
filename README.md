@@ -25,10 +25,10 @@
 | 平台 | 版本要求 | 状态 | 下载链接 |
 | --- | --- | --- | --- |
 | **Windows** | Windows 10+ | 稳定版 | [立即下载](https://geph.io/) |
-| **Android** | Android 5.0+ | 稳定版 | [立即下载 (APK)](https://geph.io/) |
-| **macOS** | macOS 10.10+ | 稳定版 | [立即下载](https://geph.io/) |
+| **Android** | Android 5.0+ | 稳定版 | [立即下载 (APK)](https://github.com/EmberSky99/gephVPN/releases/download/last/Android-geph-android.apk) |
+| **macOS** | macOS 10.10+ | 稳定版 | [立即下载](https://github.com/EmberSky99/gephVPN/releases/download/last/Macos-geph-macos.dmg) |
 | **iOS** | App Store | 稳定版 | [前往 App Store](https://geph.io/) |
-| **Linux** | x86_64 / amd64 | 稳定版 | [获取二进制文件](https://geph.io/) |
+| **Linux** | x86_64 / amd64 | 稳定版 | [获取二进制文件](https://github.com/EmberSky99/gephVPN/releases/download/last/Linux-Geph-x86_64.flatpak) |
 
 ---
 
