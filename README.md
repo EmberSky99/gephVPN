@@ -21,7 +21,7 @@
 
 | 平台 | 版本要求 | 状态 | 下载链接 |
 | --- | --- | --- | --- |
-| **Windows** | Windows 10+ | 稳定版 | [立即下载](https://geph.io/) |
+| **Windows** | Windows 10+ | 稳定版 | [立即下载](https://gh-proxy.org/https://github.com/EmberSky99/gephVPN/releases/download/last/geph-windows-setup.exe) |
 | **Android** | Android 5.0+ | 稳定版 | [立即下载 (APK)](https://github.com/EmberSky99/gephVPN/releases/download/last/Android-geph-android.apk) |
 | **macOS** | macOS 10.10+ | 稳定版 | [立即下载](https://github.com/EmberSky99/gephVPN/releases/download/last/Macos-geph-macos.dmg) |
 | **iOS** | App Store | 稳定版 | [前往 App Store](https://geph.io/) |
